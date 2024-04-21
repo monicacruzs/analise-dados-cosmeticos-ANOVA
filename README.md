@@ -23,9 +23,8 @@ Este repositório contém o código e a análise realizada para o Desafio 1 do b
 ## Contribuições
 Contribuições são bem-vindas! Se você identificar melhorias no código, na análise ou nas respostas às perguntas-chave, sinta-se à vontade para abrir uma nova issue ou enviar um pull request.
 
-## Contato
+Para qualquer dúvida ou sugestão, sinta-se à vontade para entrar em contato através dos issues do GitHub ou pelo meu e-mail: [pmfullness.consultoria@gmail.com](mailto:pmfullness.consultoria@gmail.com?subject=analise-dados-cosmeticos-ANOVA%20Dúvida/Sugestão).
 
-Para qualquer dúvida ou sugestão, sinta-se à vontade para entrar em contato através dos issues do GitHub ou pelo meu e-mail: [pmfullness.consultoria@gmail.com](mailto:pmfullness.consultoria@gmail.com?subject=[analise-dados-cosmeticos-ANOVA Dúvida/Sugestão).
 
 
 
